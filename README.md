@@ -9,6 +9,11 @@ I spend most of my time building <b>web apps</b>, <b>bots</b>, and <b>automation
 with a focus on <b>backend systems</b>, <b>data</b>, and <b>practical side projects</b>
 </p>
 
+<p align="center">
+  🌐 <a href="https://ochtagon.com">ochtagon.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  ☕ <a href="https://logmybeans.com">logmybeans.com</a>
+</p>
+
 <br>
 
 <div align="center">
