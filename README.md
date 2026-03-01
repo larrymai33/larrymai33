@@ -12,8 +12,9 @@ with a focus on <b>backend systems</b>, <b>data</b>, and <b>practical side proje
 <br>
 
 <div align="center">
-  <img height="190" align="center" alt="GitHub Stats"
-    src="https://github-readme-stats-hxbo6jtmq-larry-s-projects-515e6ba8.vercel.app/api?username=larrymai33&show_icons=true&theme=catppuccin_mocha&border_radius=10" />
-  <img height="190" align="center" alt="Top Languages"
-    src="https://github-readme-stats-hxbo6jtmq-larry-s-projects-515e6ba8.vercel.app/api/top-langs/?username=larrymai33&layout=compact&theme=catppuccin_mocha&border_radius=10" />
+  <img height="190"
+    src="https://github-readme-stats-taupe-sigma-11.vercel.app/api?username=larrymai33&show_icons=true&count_private=true&include_all_commits=true&theme=catppuccin_mocha" />
+  
+  <img height="190"
+    src="https://github-readme-stats-taupe-sigma-11.vercel.app/api/top-langs/?username=larrymai33&layout=compact&theme=catppuccin_mocha" />
 </div>
